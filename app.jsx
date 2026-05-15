@@ -42,7 +42,6 @@ function App() {
 
   return (
     <>
-      <window.CustomCursor />
       <window.Nav />
       <main>
         <window.Hero />
